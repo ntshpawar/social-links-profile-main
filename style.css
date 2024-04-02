@@ -44,7 +44,7 @@ section img
     height: 85px;
     border-radius: 50%;
     display: block;
-    margin: 15px auto;
+    margin: 13px auto 15px;
 }
 
 .loc
