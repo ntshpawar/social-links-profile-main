@@ -44,7 +44,7 @@ section img
     height: 85px;
     border-radius: 50%;
     display: block;
-    margin: 13px auto 15px;
+    margin: 10px auto 15px;
 }
 
 .loc
@@ -66,7 +66,7 @@ section img
 
 padding: 12px;
 
-margin: 5px;
+margin: 7px;
 
 background-color: hsl(0, 0%, 20%);
 
